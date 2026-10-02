@@ -9,7 +9,7 @@
 I am an Architect and Urban Planner, and a Data Analysis and Systems Development student at Universidade Tiradentes in Aracaju, SE. I focus on team management and leadership, and I am fascinated by the creative development of ideas that bring solutions to diverse situations, optimizing workflows through scripts, automations, and application development. In my free time, I act as an AI content creator (Music and videos).
 
 - 🔭 Currently working on: Personal creative projects ("Vibe Code") focused on bringing new ideas to life.
-- 🌱 Currently learning: Python and Java, alongside my degree in Data Analysis and Systems Development (expected graduation in 2018).
+- 🌱 Currently learning: Python and Java, alongside my degree in Data Analysis and Systems Development (expected graduation in 2028).
 - 💬 Ask me about: Python, Excel VBA automation, architecture, team management, and AI content creation.
 - ⚡ Fun facts: I am passionate about Star Wars and Lord of The Rings, and I really appreciate the visual aesthetics of Cassette Futurism.
 
