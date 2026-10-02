@@ -6,7 +6,7 @@
 
 ## 😄 About me
 
-I am an architect and urban planner, and a Data Analysis and Systems Development student at Universidade Tiradentes in Aracaju, SE. I focus on team management and leadership, and I am fascinated by the creative development of ideas that bring solutions to diverse situations, optimizing workflows through scripts, automations, and application development. In my free time, I act as an AI content creator (Music and videos).
+I am an Architect and Urban Planner, and a Data Analysis and Systems Development student at Universidade Tiradentes in Aracaju, SE. I focus on team management and leadership, and I am fascinated by the creative development of ideas that bring solutions to diverse situations, optimizing workflows through scripts, automations, and application development. In my free time, I act as an AI content creator (Music and videos).
 
 - 🔭 Currently working on: Personal creative projects ("Vibe Code") focused on bringing new ideas to life.
 - 🌱 Currently learning: Python and Java, alongside my degree in Data Analysis and Systems Development (expected graduation in 2018).
