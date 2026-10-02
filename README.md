@@ -9,7 +9,7 @@
 Sou um Arquiteto e Urbanista, estudante de Análise de Dados e Desenvolvimento de Sistemas na Universidade Tiradentes, Aracaju, SE. Tenho foco em gestão e liderança de equipes e fascinado no desenvolvimento criativo de ideias que tragam soluções para situações diversas, otimizando fluxos de trabalho através de scripts, automações e desenvolvimento de aplicativos. Nas horas vagas atuo como criador de conteúdo com IA (Músicas, e vídeos).
 
 - 🔭 Atualmente trabalhando em: Projetos criativos pessoais ("Vibe Code") focados em dar vida a novas ideias.
-- 🌱 Atualmente aprendendo: Python e Java, em paralelo à graduação em Análise de Dados e Desenvolvimento de Sistemas (previsão de formatura em 2018).
+- 🌱 Atualmente aprendendo: Python e Java, em paralelo à graduação em Análise de Dados e Desenvolvimento de Sistemas (previsão de formatura em 2028).
 - 💬 Pergunte-me sobre: Python, automação com VBA no Excel, arquitetura, gestão de equipes e criação de conteúdo com IA.
 - ⚡ Curiosidades: Sou apaixonado por Star Wars e Senhor dos Anéis, além de apreciar muito a estética visual do Cassette Futurism.
 
