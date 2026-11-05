@@ -30,11 +30,9 @@ Sou Arquiteto e Urbanista e estudante de Análise de Dados e Desenvolvimento de 
 ## 🛠️ Linguagens e Ferramentas
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,vscode" alt="Python, Java, VS Code" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,vscode" alt="Python, Java, VS Code" />
   <a href="https://antigravity.google">
-    <img src="assets/antigravity.svg" height="48" width="48" alt="Google Antigravity" title="Google Antigravity" style="vertical-align: top;" />
+    <img src="https://raw.githubusercontent.com/Aragornb/Aragornb/main/assets/antigravity.svg" height="48" width="48" alt="Google Antigravity" title="Google Antigravity" style="vertical-align: top;" />
   </a>
 </p>
 
@@ -42,15 +40,10 @@ Sou Arquiteto e Urbanista e estudante de Análise de Dados e Desenvolvimento de 
 
 ## ⚡ Estatísticas
 
-<div align="center">
-  <a href="https://github.com/Aragornb">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aragornb&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=pt-br" alt="Estatísticas do GitHub de Aragornb" />
-  </a>
-  <a href="https://github.com/Aragornb">
-    <img width="49%" src="https://streak-stats.demolab.com?user=Aragornb&theme=transparent&count_private=true&border_radius=10&locale=pt-br&timezone=America/Sao_Paulo" alt="Sequência de Contribuições de Aragornb" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Aragornb">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aragornb&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=pt-br" alt="Linguagens mais usadas por Aragornb" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Aragornb&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=pt-br" height="180" alt="Estatísticas do GitHub" />
+  <img src="https://streak-stats.demolab.com?user=Aragornb&theme=transparent&count_private=true&border_radius=10&locale=pt-br&timezone=America/Sao_Paulo" height="180" alt="Sequência de Contribuições" />
+</p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Aragornb&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=pt-br" height="200" alt="Linguagens mais usadas" />
+</p>

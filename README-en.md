@@ -30,11 +30,9 @@ I am an Architect and Urban Planner, and a Data Analysis and Systems Development
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,vscode" alt="Python, Java, VS Code" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,vscode" alt="Python, Java, VS Code" />
   <a href="https://antigravity.google">
-    <img src="assets/antigravity.svg" height="48" width="48" alt="Google Antigravity" title="Google Antigravity" style="vertical-align: top;" />
+    <img src="https://raw.githubusercontent.com/Aragornb/Aragornb/main/assets/antigravity.svg" height="48" width="48" alt="Google Antigravity" title="Google Antigravity" style="vertical-align: top;" />
   </a>
 </p>
 
@@ -42,15 +40,10 @@ I am an Architect and Urban Planner, and a Data Analysis and Systems Development
 
 ## ⚡ Stats
 
-<div align="center">
-  <a href="https://github.com/Aragornb">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aragornb&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Aragornb's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Aragornb">
-    <img width="49%" src="https://streak-stats.demolab.com?user=Aragornb&theme=transparent&count_private=true&border_radius=10&locale=en&timezone=America/Sao_Paulo" alt="Aragornb's Contribution Streak" />
-  </a>
-  <br><br>
-  <a href="https://github.com/Aragornb">
-    <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Aragornb&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Aragornb's Most Used Languages" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Aragornb&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Aragornb&theme=transparent&count_private=true&border_radius=10&locale=en&timezone=America/Sao_Paulo" height="180" alt="Contribution Streak" />
+</p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Aragornb&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" height="200" alt="Top Languages" />
+</p>
