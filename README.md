@@ -28,7 +28,7 @@ Sou um Arquiteto e Urbanista, estudante de Análise de Dados e Desenvolvimento d
 <br>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,java,vscode" alt="Linguagens e ferramentas: python, java, vscode"/>
+    <img src="https://skillicons.dev/icons?i=python,java,vscode" alt="Linguagens e ferramentas: python, java, vscode, antigravity"/>
 </p>
 
 <br>
